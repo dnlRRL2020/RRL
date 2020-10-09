@@ -2,6 +2,7 @@ For each experiment there is a corresponding folder including a readme file with
 
 Everything has been tested on Tensorflow 1.15 and python 3.6
 
+IMNPORTANT *** The new TF. 2.3 implementation of codes are available in subfolder TF_VER2 
 
 Libraries :
 Tensorflow-gpu
